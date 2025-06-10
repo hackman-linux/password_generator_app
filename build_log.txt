@@ -1,0 +1,305 @@
+[ +185 ms] executing: uname -m
+[  +37 ms] Exit code 0 from: uname -m
+[        ] x86_64
+[ +956 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[   +4 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[   +3 ms] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[  +53 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[+1194 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[  +10 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[   +3 ms] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[ +446 ms] Skipping pub get: version match.
+[+1085 ms] Found plugin path_provider at /home/hackman/.pub-cache/hosted/pub.dev/path_provider-2.1.5/
+[  +45 ms] Found plugin path_provider_android at /home/hackman/.pub-cache/hosted/pub.dev/path_provider_android-2.2.17/
+[  +28 ms] Found plugin path_provider_foundation at /home/hackman/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.1/
+[  +33 ms] Found plugin path_provider_linux at /home/hackman/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+[  +21 ms] Found plugin path_provider_windows at /home/hackman/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0/
+[  +92 ms] Found plugin share_plus at /home/hackman/.pub-cache/hosted/pub.dev/share_plus-7.2.2/
+[  +55 ms] Found plugin shared_preferences at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences-2.5.3/
+[  +33 ms] Found plugin shared_preferences_android at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences_android-2.4.10/
+[  +30 ms] Found plugin shared_preferences_foundation at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.4/
+[  +35 ms] Found plugin shared_preferences_linux at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.4.1/
+[  +45 ms] Found plugin shared_preferences_web at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences_web-2.4.3/
+[  +27 ms] Found plugin shared_preferences_windows at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.4.1/
+[ +105 ms] Found plugin url_launcher at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher-6.3.1/
+[  +21 ms] Found plugin url_launcher_android at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.16/
+[  +11 ms] Found plugin url_launcher_ios at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.3/
+[  +29 ms] Found plugin url_launcher_linux at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_linux-3.2.1/
+[  +22 ms] Found plugin url_launcher_macos at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.2/
+[  +28 ms] Found plugin url_launcher_web at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_web-2.4.1/
+[  +21 ms] Found plugin url_launcher_windows at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.4/
+[ +600 ms] Found plugin path_provider at /home/hackman/.pub-cache/hosted/pub.dev/path_provider-2.1.5/
+[   +7 ms] Found plugin path_provider_android at /home/hackman/.pub-cache/hosted/pub.dev/path_provider_android-2.2.17/
+[   +6 ms] Found plugin path_provider_foundation at /home/hackman/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.1/
+[   +5 ms] Found plugin path_provider_linux at /home/hackman/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+[   +6 ms] Found plugin path_provider_windows at /home/hackman/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0/
+[  +13 ms] Found plugin share_plus at /home/hackman/.pub-cache/hosted/pub.dev/share_plus-7.2.2/
+[   +5 ms] Found plugin shared_preferences at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences-2.5.3/
+[   +4 ms] Found plugin shared_preferences_android at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences_android-2.4.10/
+[   +3 ms] Found plugin shared_preferences_foundation at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.4/
+[   +6 ms] Found plugin shared_preferences_linux at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.4.1/
+[   +8 ms] Found plugin shared_preferences_web at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences_web-2.4.3/
+[   +3 ms] Found plugin shared_preferences_windows at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.4.1/
+[  +19 ms] Found plugin url_launcher at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher-6.3.1/
+[   +6 ms] Found plugin url_launcher_android at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.16/
+[   +7 ms] Found plugin url_launcher_ios at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.3/
+[   +6 ms] Found plugin url_launcher_linux at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_linux-3.2.1/
+[  +10 ms] Found plugin url_launcher_macos at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.2/
+[  +11 ms] Found plugin url_launcher_web at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_web-2.4.1/
+[   +6 ms] Found plugin url_launcher_windows at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.4/
+[ +185 ms] Found plugin path_provider at /home/hackman/.pub-cache/hosted/pub.dev/path_provider-2.1.5/
+[   +2 ms] Found plugin path_provider_android at /home/hackman/.pub-cache/hosted/pub.dev/path_provider_android-2.2.17/
+[   +3 ms] Found plugin path_provider_foundation at /home/hackman/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.1/
+[   +3 ms] Found plugin path_provider_linux at /home/hackman/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+[   +3 ms] Found plugin path_provider_windows at /home/hackman/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0/
+[  +11 ms] Found plugin share_plus at /home/hackman/.pub-cache/hosted/pub.dev/share_plus-7.2.2/
+[  +15 ms] Found plugin shared_preferences at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences-2.5.3/
+[   +3 ms] Found plugin shared_preferences_android at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences_android-2.4.10/
+[   +2 ms] Found plugin shared_preferences_foundation at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.4/
+[   +4 ms] Found plugin shared_preferences_linux at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.4.1/
+[   +5 ms] Found plugin shared_preferences_web at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences_web-2.4.3/
+[   +3 ms] Found plugin shared_preferences_windows at /home/hackman/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.4.1/
+[  +21 ms] Found plugin url_launcher at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher-6.3.1/
+[   +5 ms] Found plugin url_launcher_android at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.16/
+[   +2 ms] Found plugin url_launcher_ios at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.3/
+[   +3 ms] Found plugin url_launcher_linux at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_linux-3.2.1/
+[   +3 ms] Found plugin url_launcher_macos at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.2/
+[   +5 ms] Found plugin url_launcher_web at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_web-2.4.1/
+[   +3 ms] Found plugin url_launcher_windows at /home/hackman/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.4/
+[ +403 ms] Generating /home/hackman/StudioProjects/password_generator_app/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+[ +554 ms] executing: /opt/android-studio/jbr/bin/java -version
+[+1036 ms] Exit code 0 from: /opt/android-studio/jbr/bin/java -version
+[        ] openjdk version "17.0.11" 2024-04-16
+           OpenJDK Runtime Environment (build 17.0.11+0-17.0.11b1207.24-11852314)
+           OpenJDK 64-Bit Server VM (build 17.0.11+0-17.0.11b1207.24-11852314, mixed mode)
+[  +25 ms] executing: /opt/android-studio/jbr/bin/java --version
+[ +281 ms] Exit code 0 from: /opt/android-studio/jbr/bin/java --version
+[   +6 ms] openjdk 17.0.11 2024-04-16
+           OpenJDK Runtime Environment (build 17.0.11+0-17.0.11b1207.24-11852314)
+           OpenJDK 64-Bit Server VM (build 17.0.11+0-17.0.11b1207.24-11852314, mixed mode)
+[  +50 ms] CMake project not found, skipping support Android 15 16k page size migration.
+[  +53 ms] Using gradle from /home/hackman/StudioProjects/password_generator_app/android/gradlew.
+[  +68 ms] Running Gradle task 'assembleDebug'...
+[  +10 ms] executing: [/home/hackman/StudioProjects/password_generator_app/android/] /home/hackman/StudioProjects/password_generator_app/android/gradlew --full-stacktrace --info -Pverbose=true -Ptarget-platform=android-arm,android-arm64,android-x86,android-x64 -Ptarget=lib/main.dart -Pbase-application-name=android.app.Application -Pdart-obfuscation=false -Ptrack-widget-creation=true -Ptree-shake-icons=false assembleDebug
+[+6483 ms] Initialized native services in: /home/hackman/.gradle/native
+[   +6 ms] Initialized jansi services in: /home/hackman/.gradle/native
+[ +177 ms] Welcome to Gradle 8.3!
+[   +1 ms] Here are the highlights of this release:
+[        ]  - Faster Java compilation
+[        ]  - Reduced memory usage
+[        ]  - Support for running on Java 20
+[        ] For more details see https://docs.gradle.org/8.3/release-notes.html
+[ +295 ms] Received JVM installation metadata from '/opt/android-studio/jbr': {JAVA_HOME=/opt/android-studio/jbr, JAVA_VERSION=17.0.11, JAVA_VENDOR=JetBrains s.r.o., RUNTIME_NAME=OpenJDK Runtime Environment, RUNTIME_VERSION=17.0.11+0-17.0.11b1207.24-11852314, VM_NAME=OpenJDK 64-Bit Server VM, VM_VERSION=17.0.11+0-17.0.11b1207.24-11852314, VM_VENDOR=JetBrains s.r.o., OS_ARCH=amd64}
+[ +497 ms] Removing 0 daemon stop events from registry
+[  +99 ms] Starting a Gradle Daemon, 4 busy Daemons could not be reused, use --status for details
+[ +204 ms] Starting process 'Gradle build daemon'. Working directory: /home/hackman/.gradle/daemon/8.3 Command: /opt/android-studio/jbr/bin/java -XX:MaxMetaspaceSize=2G -XX:+HeapDumpOnOutOfMemoryError --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED --add-opens=java.prefs/java.util.prefs=ALL-UNNAMED --add-opens=java.base/java.nio.charset=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED -Xmx4G -Dfile.encoding=UTF-8 -Duser.country=US -Duser.language=en -Duser.variant -cp /home/hackman/.gradle/wrapper/dists/gradle-8.3-all/6en3ugtfdg5xnpx44z4qbwgas/gradle-8.3/lib/gradle-launcher-8.3.jar -javaagent:/home/hackman/.gradle/wrapper/dists/gradle-8.3-all/6en3ugtfdg5xnpx44z4qbwgas/gradle-8.3/lib/agents/gradle-instrumentation-agent-8.3.jar org.gradle.launcher.daemon.bootstrap.GradleDaemon 8.3
+[  +98 ms] Successfully started process 'Gradle build daemon'
+[+8498 ms] An attempt to start the daemon took 8.669 secs.
+[ +399 ms] The client will now receive all logging from the daemon (pid: 23576). The daemon log file: /home/hackman/.gradle/daemon/8.3/daemon-23576.out.log
+[        ] Starting build in new daemon [memory: 4 GiB]
+[+1599 ms] Using 2 worker leases.
+[+1200 ms] Received JVM installation metadata from '/opt/android-studio/jbr': {JAVA_HOME=/opt/android-studio/jbr, JAVA_VERSION=17.0.11, JAVA_VENDOR=JetBrains s.r.o., RUNTIME_NAME=OpenJDK Runtime Environment, RUNTIME_VERSION=17.0.11+0-17.0.11b1207.24-11852314, VM_NAME=OpenJDK 64-Bit Server VM, VM_VERSION=17.0.11+0-17.0.11b1207.24-11852314, VM_VENDOR=JetBrains s.r.o., OS_ARCH=amd64}
+[+1100 ms] Watching the file system is configured to be enabled if available
+[  +99 ms] Now considering [/home/hackman/StudioProjects/password_generator_app/android] as hierarchies to watch
+[   +5 ms] File system watching is active
+[+3292 ms] Starting Build
+[+1400 ms] Now considering [/home/hackman/student-management-system/flutter/packages/flutter_tools/gradle, /home/hackman/StudioProjects/password_generator_app/android] as hierarchies to watch
+[+1100 ms] Skipping Kotlin DSL script compilation (Settings/TopLevel/stage1) as it is up-to-date.
+[+2604 ms] > Configure project :gradle
+[        ] Evaluating project ':gradle' using build file '/home/hackman/student-management-system/flutter/packages/flutter_tools/gradle/build.gradle.kts'.
+[   +7 ms] Caching disabled for Kotlin DSL plugin specs accessors for classpath '8feb2b64a4ab3196ea6820bb7d13153b' because:
+[   +7 ms]   Build cache is disabled
+[   +1 ms] Skipping Kotlin DSL plugin specs accessors for classpath '8feb2b64a4ab3196ea6820bb7d13153b' as it is up-to-date.
+[  +30 ms] Caching disabled for Kotlin DSL script compilation (Project/TopLevel/stage1) because:
+[   +5 ms]   Build cache is disabled
+[        ] Skipping Kotlin DSL script compilation (Project/TopLevel/stage1) as it is up-to-date.
+[        ] The configuration :gradle:classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[        ] The configuration :gradle:classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[        ] The configuration :gradle:classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[  +24 ms] The configuration :gradle:classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[+3817 ms] Caching disabled for Kotlin DSL accessors for project ':gradle' because:
+[        ]   Build cache is disabled
+[        ] Skipping Kotlin DSL accessors for project ':gradle' as it is up-to-date.
+[        ] Caching disabled for Kotlin DSL script compilation (Project/TopLevel/stage2) because:
+[        ]   Build cache is disabled
+[  +96 ms] Skipping Kotlin DSL script compilation (Project/TopLevel/stage2) as it is up-to-date.
+[ +399 ms] The configuration detachedConfiguration1 is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[   +4 ms] The configuration detachedConfiguration1 is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[   +3 ms] The configuration detachedConfiguration1 is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[   +4 ms] The configuration detachedConfiguration1 is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[ +488 ms] The configuration detachedConfiguration2 is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[        ] The configuration detachedConfiguration2 is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[        ] The configuration detachedConfiguration2 is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[        ] The configuration detachedConfiguration2 is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[ +102 ms] The configuration classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[   +3 ms] The configuration classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[ +291 ms] The configuration :gradle:mainSourceElements is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[+1100 ms] Resolve mutations for :gradle:compileJava (Thread[included builds,5,main]) started.
+[  +99 ms] :gradle:compileJava (Thread[Execution worker,5,main]) started.
+[ +102 ms] > Task :gradle:compileJava NO-SOURCE
+[   +4 ms] Watching 1 directories to track changes
+[   +3 ms] Skipping task ':gradle:compileJava' as it has no source files and no previous output files.
+[        ] Resolve mutations for :gradle:compileGroovy (Thread[included builds,5,main]) started.
+[        ] :gradle:compileGroovy (Thread[included builds,5,main]) started.
+[ +588 ms] > Task :gradle:compileGroovy UP-TO-DATE
+[   +4 ms] Watching 2 directories to track changes
+[   +3 ms] Watching 3 directories to track changes
+[   +3 ms] Watching 4 directories to track changes
+[        ] Watching 5 directories to track changes
+[        ] Watching 6 directories to track changes
+[        ] Watching 7 directories to track changes
+[        ] Watching 8 directories to track changes
+[        ] Caching disabled for task ':gradle:compileGroovy' because:
+[   +3 ms]   Build cache is disabled
+[        ] Skipping task ':gradle:compileGroovy' as it is up-to-date.
+[        ] Resolve mutations for :gradle:pluginDescriptors (Thread[Execution worker,5,main]) started.
+[        ] :gradle:pluginDescriptors (Thread[Execution worker,5,main]) started.
+[  +81 ms] > Task :gradle:pluginDescriptors UP-TO-DATE
+[   +5 ms] Watching 9 directories to track changes
+[   +3 ms] Caching disabled for task ':gradle:pluginDescriptors' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':gradle:pluginDescriptors' as it is up-to-date.
+[        ] Resolve mutations for :gradle:processResources (Thread[Execution worker,5,main]) started.
+[        ] :gradle:processResources (Thread[included builds,5,main]) started.
+[   +3 ms] > Task :gradle:processResources UP-TO-DATE
+[        ] Watching 9 directories to track changes
+[        ] Watching 12 directories to track changes
+[        ] Caching disabled for task ':gradle:processResources' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':gradle:processResources' as it is up-to-date.
+[        ] Resolve mutations for :gradle:classes (Thread[Execution worker,5,main]) started.
+[  +19 ms] :gradle:classes (Thread[Execution worker,5,main]) started.
+[   +4 ms] > Task :gradle:classes UP-TO-DATE
+[   +7 ms] Skipping task ':gradle:classes' as it has no actions.
+[   +5 ms] Resolve mutations for :gradle:jar (Thread[Execution worker,5,main]) started.
+[        ] :gradle:jar (Thread[Execution worker,5,main]) started.
+[  +43 ms] > Task :gradle:jar UP-TO-DATE
+[   +4 ms] Watching 13 directories to track changes
+[        ] Watching 14 directories to track changes
+[        ] Caching disabled for task ':gradle:jar' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':gradle:jar' as it is up-to-date.
+[        ] The configuration classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[        ] The configuration classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[+6897 ms] Settings evaluated using settings file '/home/hackman/StudioProjects/password_generator_app/android/settings.gradle'.
+[        ] Projects loaded. Root project using build file '/home/hackman/StudioProjects/password_generator_app/android/build.gradle'.
+[        ] Included projects: [root project 'android', project ':app', project ':path_provider_android', project ':share_plus', project ':shared_preferences_android', project ':url_launcher_android']
+[+1994 ms] > Configure project :
+[   +1 ms] Evaluating root project 'android' using build file '/home/hackman/StudioProjects/password_generator_app/android/build.gradle'.
+[+28400 ms] > Configure project :app
+[   +1 ms] Evaluating project ':app' using build file '/home/hackman/StudioProjects/password_generator_app/android/app/build.gradle'.
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle76 variant
+[        ] Caching disabled for Kotlin DSL plugin specs accessors for classpath '4bfe3b7f1ec0e5722fd9f48f32626dee' because:
+[        ]   Build cache is disabled
+[        ] Skipping Kotlin DSL plugin specs accessors for classpath '4bfe3b7f1ec0e5722fd9f48f32626dee' as it is up-to-date.
+[        ] Caching disabled for Kotlin DSL script compilation (Project/ScriptPlugin/stage1) because:
+[        ]   Build cache is disabled
+[        ] Skipping Kotlin DSL script compilation (Project/ScriptPlugin/stage1) as it is up-to-date.
+[        ] The configuration classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[        ] The configuration classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[        ] The configuration classpath is both resolvable and consumable. This is considered a legacy configuration and it will eventually only be possible to be one of these.
+[        ] The configuration classpath is both consumable and declarable. This combination is incorrect, only one of these flags should be set.
+[        ] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.9.0/kotlin-stdlib-1.9.0.pom to /home/hackman/.gradle/.tmp/gradle_download9752687418539284108bin
+[ +389 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4.pom]
+[+3599 ms] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4.pom to /home/hackman/.gradle/.tmp/gradle_download9984522983068716419bin
+[ +300 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/com/google/errorprone/error_prone_parent/2.3.4/error_prone_parent-2.3.4.pom]
+[ +199 ms] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_parent/2.3.4/error_prone_parent-2.3.4.pom to /home/hackman/.gradle/.tmp/gradle_download11621486450441514684bin
+[+13900 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/com/google/errorprone/error_prone_annotations/2.4.0/error_prone_annotations-2.4.0.pom]
+[ +199 ms] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.4.0/error_prone_annotations-2.4.0.pom to /home/hackman/.gradle/.tmp/gradle_download382629799608301931bin
+[+7400 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/com/google/errorprone/error_prone_parent/2.4.0/error_prone_parent-2.4.0.pom]
+[+1399 ms] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_parent/2.4.0/error_prone_parent-2.4.0.pom to /home/hackman/.gradle/.tmp/gradle_download11742119432779675255bin
+[+2300 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/io/grpc/grpc-api/1.39.0/grpc-api-1.39.0.pom]
+[+5300 ms] Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-api/1.39.0/grpc-api-1.39.0.pom to /home/hackman/.gradle/.tmp/gradle_download4968108062314347318bin
+[ +999 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/io/netty/netty-handler-proxy/4.1.52.Final/netty-handler-proxy-4.1.52.Final.pom]
+[ +300 ms] Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler-proxy/4.1.52.Final/netty-handler-proxy-4.1.52.Final.pom to /home/hackman/.gradle/.tmp/gradle_download6760927227759910478bin
+[+2607 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/io/netty/netty-codec-http2/4.1.52.Final/netty-codec-http2-4.1.52.Final.pom]
+[ +692 ms] Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http2/4.1.52.Final/netty-codec-http2-4.1.52.Final.pom to /home/hackman/.gradle/.tmp/gradle_download10407993960527413335bin
+[ +900 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/io/netty/netty-parent/4.1.52.Final/netty-parent-4.1.52.Final.pom]
+[ +399 ms] Downloading https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.1.52.Final/netty-parent-4.1.52.Final.pom to /home/hackman/.gradle/.tmp/gradle_download1844503845382407958bin
+[+4100 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/io/grpc/grpc-protobuf-lite/1.39.0/grpc-protobuf-lite-1.39.0.pom]
+[ +200 ms] Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-protobuf-lite/1.39.0/grpc-protobuf-lite-1.39.0.pom to /home/hackman/.gradle/.tmp/gradle_download7220638710503178382bin
+[+1099 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/org/json/json/20180813/json-20180813.pom]
+[ +200 ms] Downloading https://repo.maven.apache.org/maven2/org/json/json/20180813/json-20180813.pom to /home/hackman/.gradle/.tmp/gradle_download12146438933936543931bin
+[+1399 ms] Downloading https://dl.google.com/dl/android/maven2/com/android/signflinger/7.3.0/signflinger-7.3.0.pom to /home/hackman/.gradle/.tmp/gradle_download13210452829826238487bin
+[ +299 ms] Downloading https://dl.google.com/dl/android/maven2/com/android/tools/analytics-library/tracker/30.3.0/tracker-30.3.0.pom to /home/hackman/.gradle/.tmp/gradle_download1781802888157780395bin
+[ +800 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/it/unimi/dsi/fastutil/8.4.0/fastutil-8.4.0.pom]
+[ +900 ms] Downloading https://repo.maven.apache.org/maven2/it/unimi/dsi/fastutil/8.4.0/fastutil-8.4.0.pom to /home/hackman/.gradle/.tmp/gradle_download1625687739737371640bin
+[+1999 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.pom]
+[ +899 ms] Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.pom to /home/hackman/.gradle/.tmp/gradle_download5370782453045405040bin
+[ +300 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.9.0/kotlin-stdlib-jdk7-1.9.0.pom]
+[ +506 ms] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.9.0/kotlin-stdlib-jdk7-1.9.0.pom to /home/hackman/.gradle/.tmp/gradle_download9813915410923372866bin
+[ +693 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/org/jetbrains/kotlin/kotlin-native-utils/1.7.10/kotlin-native-utils-1.7.10.pom]
+[ +199 ms] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-native-utils/1.7.10/kotlin-native-utils-1.7.10.pom to /home/hackman/.gradle/.tmp/gradle_download16853574634846605075bin
+[+5600 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/org/jetbrains/kotlin/kotlin-util-io/1.7.10/kotlin-util-io-1.7.10.pom]
+[ +203 ms] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-util-io/1.7.10/kotlin-util-io-1.7.10.pom to /home/hackman/.gradle/.tmp/gradle_download14053627545785781164bin
+[ +796 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/org/jetbrains/kotlin/kotlin-daemon-embeddable/1.7.10/kotlin-daemon-embeddable-1.7.10.pom]
+[+1300 ms] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-daemon-embeddable/1.7.10/kotlin-daemon-embeddable-1.7.10.pom to /home/hackman/.gradle/.tmp/gradle_download2554888769039365164bin
+[ +300 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/org/jetbrains/kotlin/kotlin-build-common/1.7.10/kotlin-build-common-1.7.10.pom]
+[ +298 ms] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-build-common/1.7.10/kotlin-build-common-1.7.10.pom to /home/hackman/.gradle/.tmp/gradle_download501571792859658296bin
+[ +799 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/org/jetbrains/kotlin/kotlin-daemon-client/1.7.10/kotlin-daemon-client-1.7.10.pom]
+[ +699 ms] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-daemon-client/1.7.10/kotlin-daemon-client-1.7.10.pom to /home/hackman/.gradle/.tmp/gradle_download11923716234096658709bin
+[ +800 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/org/jetbrains/kotlin/kotlin-scripting-common/1.7.10/kotlin-scripting-common-1.7.10.pom]
+[ +400 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/org/jetbrains/kotlin/kotlin-scripting-jvm/1.7.10/kotlin-scripting-jvm-1.7.10.pom]
+[ +299 ms] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-scripting-common/1.7.10/kotlin-scripting-common-1.7.10.pom to /home/hackman/.gradle/.tmp/gradle_download10639957063375049855bin
+[ +199 ms] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-scripting-jvm/1.7.10/kotlin-scripting-jvm-1.7.10.pom to /home/hackman/.gradle/.tmp/gradle_download15173098164122323348bin
+[ +900 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.pom]
+[ +399 ms] Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.pom to /home/hackman/.gradle/.tmp/gradle_download16098580001060960833bin
+[ +399 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.9.0/kotlin-stdlib-common-1.9.0.pom]
+[+1500 ms] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.9.0/kotlin-stdlib-common-1.9.0.pom to /home/hackman/.gradle/.tmp/gradle_download4085160091760782690bin
+[+1000 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/io/grpc/grpc-context/1.39.0/grpc-context-1.39.0.pom]
+[ +599 ms] Downloading https://repo.maven.apache.org/maven2/io/grpc/grpc-context/1.39.0/grpc-context-1.39.0.pom to /home/hackman/.gradle/.tmp/gradle_download415008151588196999bin
+[ +600 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/io/netty/netty-common/4.1.52.Final/netty-common-4.1.52.Final.pom]
+[ +600 ms] Downloading https://repo.maven.apache.org/maven2/io/netty/netty-common/4.1.52.Final/netty-common-4.1.52.Final.pom to /home/hackman/.gradle/.tmp/gradle_download11133738274810704561bin
+[ +699 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/io/netty/netty-buffer/4.1.52.Final/netty-buffer-4.1.52.Final.pom]
+[ +200 ms] Downloading https://repo.maven.apache.org/maven2/io/netty/netty-buffer/4.1.52.Final/netty-buffer-4.1.52.Final.pom to /home/hackman/.gradle/.tmp/gradle_download16198937983364950449bin
+[ +500 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/io/netty/netty-transport/4.1.52.Final/netty-transport-4.1.52.Final.pom]
+[ +199 ms] Downloading https://repo.maven.apache.org/maven2/io/netty/netty-transport/4.1.52.Final/netty-transport-4.1.52.Final.pom to /home/hackman/.gradle/.tmp/gradle_download13907689648217349018bin
+[ +399 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/io/netty/netty-codec/4.1.52.Final/netty-codec-4.1.52.Final.pom]
+[ +300 ms] Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec/4.1.52.Final/netty-codec-4.1.52.Final.pom to /home/hackman/.gradle/.tmp/gradle_download3197898141467133308bin
+[+1699 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/io/netty/netty-codec-http/4.1.52.Final/netty-codec-http-4.1.52.Final.pom]
+[ +300 ms] Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-http/4.1.52.Final/netty-codec-http-4.1.52.Final.pom to /home/hackman/.gradle/.tmp/gradle_download3856195257292965584bin
+[+2499 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/io/netty/netty-handler/4.1.52.Final/netty-handler-4.1.52.Final.pom]
+[+1299 ms] Downloading https://repo.maven.apache.org/maven2/io/netty/netty-handler/4.1.52.Final/netty-handler-4.1.52.Final.pom to /home/hackman/.gradle/.tmp/gradle_download10610032140658252785bin
+[ +599 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/io/netty/netty-codec-socks/4.1.52.Final/netty-codec-socks-4.1.52.Final.pom]
+[ +301 ms] Downloading https://repo.maven.apache.org/maven2/io/netty/netty-codec-socks/4.1.52.Final/netty-codec-socks-4.1.52.Final.pom to /home/hackman/.gradle/.tmp/gradle_download3257490126760490347bin
+[+1199 ms] Resource missing. [HTTP GET: https://dl.google.com/dl/android/maven2/io/netty/netty-resolver/4.1.52.Final/netty-resolver-4.1.52.Final.pom]
+[ +299 ms] Downloading https://repo.maven.apache.org/maven2/io/netty/netty-resolver/4.1.52.Final/netty-resolver-4.1.52.Final.pom to /home/hackman/.gradle/.tmp/gradle_download23290257748008849bin
+[+1300 ms] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-gradle-plugin/1.7.10/kotlin-gradle-plugin-1.7.10-gradle70.jar to /home/hackman/.gradle/.tmp/gradle_download6958187636375073801bin
+[ +799 ms] Downloading https://dl.google.com/dl/android/maven2/androidx/databinding/databinding-compiler-common/7.3.0/databinding-compiler-common-7.3.0.jar to /home/hackman/.gradle/.tmp/gradle_download1531832053753172962bin
+[+129309 ms] Downloading https://dl.google.com/dl/android/maven2/com/android/tools/lint/lint-model/30.3.0/lint-model-30.3.0.jar to /home/hackman/.gradle/.tmp/gradle_download4691598888868284628bin
+[+21989 ms] Downloading https://dl.google.com/dl/android/maven2/com/android/tools/sdk-common/30.3.0/sdk-common-30.3.0.jar to /home/hackman/.gradle/.tmp/gradle_download4799200503035082002bin
+[+254215 ms] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-gradle-plugin/1.7.10/kotlin-gradle-plugin-1.7.10-gradle70.jar to /home/hackman/.gradle/.tmp/gradle_download7585656783748306354bin
+[+16585 ms] Downloading https://dl.google.com/dl/android/maven2/com/android/tools/sdklib/30.3.0/sdklib-30.3.0.jar to /home/hackman/.gradle/.tmp/gradle_download12301637337061732637bin
+[+95717 ms] ensureAnalyticsSent: 252ms
+[  +16 ms] Running 1 shutdown hook
+[   +1 ms] Shutdown hooks complete
+[ +154 ms] Running Gradle task 'assembleDebug'... (completed in 676.6s)
+[ +237 ms] "flutter apk" took 683,994ms.
+[  +83 ms] exiting with code 0

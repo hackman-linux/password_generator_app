@@ -109,11 +109,6 @@ class TeamData {
         contributionPercentage: 16.0,
         role: 'Quality Assurance & Testing',
       ),
-      // const TeamMember(
-      //   name: 'NDI NATHAN',
-      //   contributionPercentage: 14.0,
-      //   role: 'Documentation & DevOps',
-      // ),
     ];
   }
 

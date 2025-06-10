@@ -24,12 +24,12 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
 
     // Initialize animation controller
     _animationController = AnimationController(
-      duration: const Duration(seconds: 2),
+      duration: const Duration(seconds: 5),
       vsync: this,
     );
 
     // Create fade animation
-    _fadeAnimation = Tween<double>(begin: 0.0, end: 1.0).animate(
+    _fadeAnimation = Tween<double>(begin: 0.0, end: 2.0).animate(
       CurvedAnimation(
         parent: _animationController,
         curve: Curves.easeIn,
@@ -42,7 +42,7 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
     // Navigate to home screen after 3 seconds
     Future.delayed(const Duration(seconds: 3), () {
       if (mounted) {
-        AppNavigator.pushReplacementNamed('/home');
+        AppNavigator.pushReplacementNamed('/team');
       }
     });
   }
